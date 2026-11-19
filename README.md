@@ -10,24 +10,28 @@ world news in a single image.
 
 ## What it is
 
-A front page for **Thursday 19 November 2026** — 42 stories on one page:
+A front page for **Thursday 19 November 2026** — 42 stories on one page,
+refreshed in the evening with the full day's news:
 
 - 9 lead stories, each with a flat illustration, a headline, and a short summary:
-  the Trump–Xi–Putin trilateral in Shenzhen, the World Court's ruling on the
-  Myanmar genocide case, the worldwide launch of Grand Theft Auto VI (99 on
-  Metacritic), Cyclone Akvan nearing India's east coast, Israeli troops
-  pushing into central Gaza, Anthropic's first day trading on the Nasdaq,
-  Australia's sanctions on Israeli settlers, Hegseth's visit to Venezuela,
-  and the EU clearing its trade deal with Indonesia.
-- A "by the numbers" strip: 99 (GTA VI's Metacritic score), 50 crore Indians
-  out of extreme poverty, 299.25 GW of Indian renewable capacity, 21 COP31
-  issues still unresolved, and 16% expected global profit growth in 2027.
+  the first-ever Trump–Xi–Putin trilateral in Shenzhen, the World Court
+  finding Myanmar guilty of genocide against the Rohingya, the worldwide
+  launch of Grand Theft Auto VI (99 on Metacritic), Cyclone Akvan bearing
+  down on India's east coast, the Israeli tank raid across the Gaza
+  ceasefire line, Anthropic's record $81.3bn IPO on the Nasdaq, Australia's
+  sanctions on Israeli settlers, Hegseth's military deal in Caracas, and
+  the EU clearing its trade deal with Indonesia.
+- A "by the numbers" strip: 99 (GTA VI's Metacritic score), 17m copies of
+  GTA VI pre-sold, 80,000 people evacuated in Odisha ahead of Cyclone
+  Akvan, 10,000 Rohingya killed in 2017 per the World Court, and $81.3bn
+  raised in Anthropic's record IPO.
 - A dotted world map with numbered dots marking where the nine lead stories
-  happened, plus a count bar of stories by region: Asia 10, North America 10,
-  Europe 8, Oceania 5, Middle East 4, Africa 2, Latin America 1.
-- 33 more stories in one line each — from the COP31 final stretch and a Pew
-  report on religion to a Houthi missile shot down over Riyadh, the
-  Microsoft–ByteDance talks, and a record Test innings by Litton Das.
+  happened, plus a count bar of stories by region: North America 12,
+  Asia 11, Europe 9, Oceania 5, Middle East 3, Africa 1, Latin America 1.
+- 33 more stories in one line each — from the COP31 final stretch and the
+  Gulf escalation to Jeffries' Speaker nomination, the US losing its
+  measles elimination status, unrest in Bangladesh, a Van Gogh selling for
+  a record $190.4m, and the Crimean Bridge hit a third time this week.
 
 Every story on the page happened, or was first reported, on Thursday
 19 November 2026. Disputed claims are attributed to whoever made them.
